@@ -3,7 +3,7 @@
 ## Project Description
 - Will add it soon(Need to add the paper written which details the project)
 
-## Running the Projetc
+## Running the Project
 - Install Xampp and click on start Mysql and Apache  
 - Install nodejs   
 - In the terminal run command npm install  
