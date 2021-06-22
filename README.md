@@ -1,5 +1,5 @@
 # agrow_help
-- This project was developed as a part of course requirement HCC  
+- This project was developed as a part of course requirement, Human Centered Computing  
 ## Project Description
 - Will add it soon(Need to add the paper written which details the project)
 
